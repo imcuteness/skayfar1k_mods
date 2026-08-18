@@ -1,4 +1,4 @@
-img2Sticker
+img2sticker
 snotes
 stat
 userinfo
